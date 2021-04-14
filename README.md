@@ -5,9 +5,7 @@ An arabic modders told me to upload this project, so I did. Also I didn't cared 
 
 **There is no support. Don't ask how to use it, instead learn from the internet or ask for help on Unknowncheats. Tutorials for PC can still be useful, they work the same, just the code that are slightly different. Use it at your own risk, we are not responsibile for bans**
 
-Use UE4Dumper to dump SDK: https://github.com/kp7742/UE4Dumper/
-
-Or get existing dumps here: https://github.com/kp7742/UE4Dumper/tree/master/SDKs
+Use UE4Dumper to dump SDK if you want to know offsets: https://github.com/kp7742/UE4Dumper/
 
 Mod menu is based on the old LGL mod menu template 1.2
 
