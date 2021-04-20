@@ -21,7 +21,7 @@ Mod menu is based on the old LGL mod menu template 1.2
 # Credits
 DESI ESP (Owner of ESP source)
 
-KINGCHEAT (Original source code): https://t.me/KINGCHAETF/1732
+KINGCHEAT (Original source code):
 
 # DISCLAIMER
 **WE SHARE THIS PROJECT FOR EDUCATIONAL PURPOSES ONLY, TO LEARN HOW THIS PROJECT WORKS. WE DO NOT ENCOURAGE YOU TO MOD PUBG OR ANY TENCENT GAMES. DOING SO MAY END YOU UP IN LEGAL TROUBLE. YOU ARE ONLY RESPONSABLE FOR YOUR ACTIONS. HAVE A LOOK AT THIS NEWS https://www.dailymail.co.uk/news/article-9423023/Worlds-biggest-video-game-cheating-operation-busted.html**
